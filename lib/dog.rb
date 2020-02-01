@@ -7,4 +7,4 @@ class Dog
 end 
 binding.pry 
 
-a1 = Dog.new ("ha", )
+a1 = Dog.new ("ha")
