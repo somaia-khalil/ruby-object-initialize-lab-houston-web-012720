@@ -5,6 +5,6 @@ class Dog
         @breed = dog_breed
     end
 end 
-binding.pry 
 
 a1 = Dog.new ("ha")
+binding.pry 
